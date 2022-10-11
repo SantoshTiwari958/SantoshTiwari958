@@ -1,4 +1,4 @@
-# Hey, I'm [Santosh Tiwari!] 👋
+# Hey, I'm SantoshKumar Tiwari!👋
 
 I'm a self-taught Machine Learning Engineer and a Computer Science graduate from India. Developing and Debugging Machine Learning and Deep Learning models sums up my daily work😎.
 <br/>
