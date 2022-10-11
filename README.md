@@ -1,15 +1,15 @@
-# Hey, I'm [Santosh Tiwari!](https://jainharsh644.github.io/harsh/) 👋
+# Hey, I'm [Santosh Tiwari!] 👋
 
 I'm a self-taught Machine Learning Engineer and a Computer Science graduate from India. Developing and Debugging Machine Learning and Deep Learning models sums up my daily work😎.
 <br/>
 <br/>
 
-[![GitHub](https://img.shields.io/badge/-GITHUB-grey?style=for-the-badge&logo=github)](https://github.com/jainharsh644)
+[![GitHub](https://img.shields.io/badge/-GITHUB-grey?style=for-the-badge&logo=github)](https://github.com/SantoshTiwari958)
 [![Kaggle](https://img.shields.io/badge/FollowMe-Kaggle-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/harshjain123/code?scroll=true)
-[![HackerRank](https://img.shields.io/badge/HackerRank-darkblue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/jainharsh644)
+[![HackerRank](https://img.shields.io/badge/HackerRank-darkblue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/santosh_tiwari91)
 [![Medium](https://img.shields.io/badge/FollowMe-MEDIUM-orange?style=for-the-badge&logo=medium)](https://jainharsh644.medium.com/)
-[![Linkedin](https://img.shields.io/badge/Connect-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-jain-6b4502169/) 
-[![Contact](https://img.shields.io/badge/Contact-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainharsh644@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Connect-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santoshkumar-tiwari/) 
+[![Contact](https://img.shields.io/badge/Contact-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.santosh.tiwari958@gmail.com)
 
 <h2> Some things you should know 👇</h3>
 <ul>
@@ -47,10 +47,10 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 <h2> Github Stats📈 </h2>
 <br/>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainharsh644&show_icons=true&locale=en&theme=algolia" alt="jainharsh644" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SantoshTiwari958&show_icons=true&locale=en&theme=algolia" alt="SantoshTiwari958" />
 </p>
 <br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainharsh644&theme=algolia&hide_border=true" alt="jainharsh644" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SantoshTiwari958&theme=algolia&hide_border=true" alt="SantoshTiwari958" />
 </p>
